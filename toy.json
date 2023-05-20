@@ -1,0 +1,31 @@
+[
+    {
+        "id": "1234",
+        "seller_name": "Toy Store Inc.",
+        "toy_name": "Race Track Set",
+        "price": 24.99,
+        "rating": 4.5,
+        "available_quantity": 10,
+        "sub_category": {
+          "product_url_links": [
+            "https://example.com/product1",
+            "https://example.com/product2"
+          ]
+        }
+      },
+      {
+        "id": "1234",
+        "seller_name": "Toy Store Inc.",
+        "toy_name": "Race Track Set",
+        "price": 24.99,
+        "rating": 4.5,
+        "available_quantity": 10,
+        "sub_category": {
+          "product_url_links": [
+            "https://example.com/product1",
+            "https://example.com/product2"
+          ]
+        }
+      }
+
+]
