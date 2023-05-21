@@ -1,6 +1,6 @@
 [
     {
-        "id": "1234",
+    
         "seller_name": "Toy Store Inc.",
         "toy_name": "Race Track Set",
         "price": 24.99,
@@ -14,7 +14,7 @@
         }
       },
       {
-        "id": "1234",
+     
         "seller_name": "Toy Store Inc.",
         "toy_name": "Race Track Set",
         "price": 24.99,
