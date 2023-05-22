@@ -6,6 +6,7 @@
         "price": 24.99,
         "rating": 4.5,
         "available_quantity": 10,
+        "image-url": "https://i.ibb.co/vjK82Qm/toy-truck-2.jpg",
         "sub_category": {
           "product_url_links": [
             "https://example.com/product1",
